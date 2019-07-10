@@ -1,0 +1,15 @@
+﻿  Moc'ing BankApp.h...
+  Moc'ing QtGuiClassRegister.h...
+  Moc'ing QtAdminClass.h...
+  Account.cpp
+  BankAccount.cpp
+  BankApp.cpp
+  ClientAccount.cpp
+  main.cpp
+  QtAdminClass.cpp
+  QtGuiClassRegister.cpp
+  qrc_BankApp.cpp
+  moc_BankApp.cpp
+  moc_QtGuiClassRegister.cpp
+  moc_QtAdminClass.cpp
+  BankApp.vcxproj -> C:\Users\Lejer\source\repos\BankApp\x64\Release\BankApp.exe
